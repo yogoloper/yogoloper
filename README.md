@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Welcome&fontSize=90)
-
 <!--
 **yogoloper/yogoloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Welcome&fontSize=90)
 
 ## Introduce
 Hello.  
@@ -33,12 +33,7 @@ I've studied or used. </br ></br >
 </div>
 
 ## Logs
-
-
-[Today I Leaned](https://github.com/yogoloper/TIL)
-
-
-
+[Today I Learned](https://github.com/yogoloper/TIL)
 
 ## Github Status
 <div align='center'>
