@@ -33,7 +33,10 @@ I've studied or used. </br ></br >
 </div>
 
 ## Logs
-[Today I Learned](https://github.com/yogoloper/TIL)
+- [Today I Learned](https://github.com/yogoloper/TIL)  
+  - [Hanghae 99](https://github.com/yogoloper/TIL/tree/master/Sparta/Hanghae99)
+  - [Study summary](https://github.com/yogoloper/TIL/tree/master/Lecture)
+  - [Language usage](https://github.com/yogoloper/TIL/tree/master/Syntax)
 
 ## Github Status
 <div align='center'>
