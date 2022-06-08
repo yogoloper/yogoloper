@@ -40,8 +40,14 @@ I've studied or used. </br ></br >
 
 ## Github Status
 <div align='center'>
-    <img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=yogoloper">
-    <img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogoloper&layout=compact">
+  <table>
+    <tr>
+      <td><img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=yogoloper"></td>
+      <td><img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogoloper&layout=compact"></td>
+    </tr>
+  </table>
+
+
 </div>
 
 
