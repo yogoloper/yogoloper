@@ -47,8 +47,6 @@ I've studied or used. </br ></br >
       <td><img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogoloper&layout=compact"></td>
     </tr>
   </table>
-
-
 </div>
 
 
