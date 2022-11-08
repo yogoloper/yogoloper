@@ -44,11 +44,8 @@ I've studied or used. </br ></br >
 ## Github Status
 <div align='center'>
   <table>
-    <tr>
-      <td><img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=yogoloper"></td>
-      <td><img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogoloper&layout=compact"></td>
-    </tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=yogoloper&show_icons=true&theme=radical"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogoloper&theme=radical"/></td>
   </table>
 </div>
-
 
